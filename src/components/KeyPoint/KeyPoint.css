@@ -1,0 +1,68 @@
+
+.keypoint_item_img{
+    width: 160px;
+}
+.keypoint_big_bg{
+    max-width: 500px;
+    width: 80%;
+    margin: 0px auto;
+}
+.keypoint_item_tit{
+    color: #000;
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.keypoint_item_txt{
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+    color: #777e91;
+}
+.keypoint_big_title{
+    text-align: center;
+    max-width: 1200px; 
+    padding: 20px 3% 40px;
+    width: 96%;
+    font-size: 32px;
+
+    color: #000;
+    margin: 0px auto;
+}
+.keypoint_short_title{
+    text-align: center;
+    max-width: 1200px; 
+    padding: 20px 3% 40px;
+    width: 96%;
+    font-size: 16px;
+    color: #777e91;
+    margin: 20px auto 200px;
+
+}
+.keypoint_bg{
+    background: #fff;
+    padding: 40px 0px 100px;
+
+/* background: linear-gradient(112.18deg, #F2CE10 -0.3%, #FFE144 96.77%); */
+
+}
+.keypoint_container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+    height: auto;
+}
+.keypoint_content{
+    margin-top: 40px;
+    text-align: center;
+}
+.big_title{
+    text-align: left;
+    max-width: 1200px; 
+    padding: 0px 2%;
+    width: 96%;
+    font-size: 32px;
+
+    color: #000000;
+    margin: 0px auto;
+    margin-bottom: 20px;
+}
